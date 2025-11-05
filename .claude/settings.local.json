@@ -6,7 +6,9 @@
       "Bash(fvm flutter pub get:*)",
       "Bash(fvm dart run:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(fvm flutter:*)",
+      "Bash(fvm dart analyze:*)"
     ],
     "deny": []
   }
